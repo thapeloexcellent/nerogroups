@@ -2772,24 +2772,24 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #e64a19;
-  border-color: #e64a19;
+  background-color: #49abfc;
+  border-color: #037fe6;
   box-shadow: none;
 }
 
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #e64a19;
-  border-color: #e64a19;
+  background-color: #037fe6;
+  border-color: #037fe6;
   box-shadow: none;
 }
 
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #fff;
-  background-color: #e64a19;
-  border-color: #e64a19;
+  background-color: #037fe6;
+  border-color: #037fe6;
   box-shadow: none;
 }
 
@@ -2797,8 +2797,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled).active,
 .show>.btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #e64a19;
-  border-color: #e64a19;
+  background-color: #037fe6;
+  border-color: #037fe6;
   box-shadow: none;
 }
 
@@ -3582,6 +3582,7 @@ input[type="button"].btn-block {
     left: auto;
   }
 }
+
 
 .dropup .dropdown-menu {
   top: auto;
@@ -5318,7 +5319,7 @@ input[type="button"].btn-block {
   margin-left: -1px;
   line-height: 1.25;
   color: var(--primary-color);
-  background-color: #fff;
+  background-color: #ffffff;
   border: 1px solid #dee2e6;
 }
 
@@ -17134,7 +17135,7 @@ readers do not read off random characters that represent icons */
 
 /*--//Font-Awesome--*/
 :root {
-  --primary-color: #ff5e14;
+  --primary-color: #49abfc;
   --secondary-color: #fdd340;
   --font-color: #868e96;
   --bg-color: #fff;
@@ -17154,7 +17155,7 @@ readers do not read off random characters that represent icons */
 }
 
 [data-theme="dark"] {
-  --primary-color: #ff5e14;
+  --primary-color: #49abfc;
   --secondary-color: #fdd340;
   --font-color: #afafaf;
   --bg-color: #232220;
@@ -17805,7 +17806,7 @@ nav ul li a:before {
   width: 50px;
   display: inline-block;
   float: right;
-  background:url(../images/search.png) center center no-repeat;
+  background:url(../images/bsearch.png) center center no-repeat;
   text-indent: -10000px;
   border: none;
   position: absolute;
@@ -18097,7 +18098,7 @@ nav ul li a:before {
 }
 
 .w3l-main-slider .banner-view {
-  background: url(../images/banner1.jpg) no-repeat center;
+  background: url(../images/header2.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -18562,6 +18563,7 @@ nav ul li a:before {
     margin-bottom: 2em;
   }
 
+
   .w3l-featureshny h5 {
     font-size: 34px;
     line-height: 44px;
@@ -18591,7 +18593,7 @@ nav ul li a:before {
 /*--//w3l-circles--*/
 /*--/features--*/
 .w3l-featureshny {
-  background: url(../images/banner5.jpg) no-repeat center;
+  background: url(../images/mbo3.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -19202,7 +19204,7 @@ p.para-counter {
 /*--/inner-banner--*/
 .inner-banner {
   min-height: 260px;
-  background: url(../images/banner5.jpg) no-repeat center;
+  background: url(../images/new2.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
@@ -19338,7 +19340,7 @@ p.para-counter {
 /*--/w3l-services3--*/
 
 .w3l-services3 .new-block {
-  background: url(../images/banner3.jpg) no-repeat center;
+  background: url(../images/moreinfo.jpg) no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -o-background-size: cover;
